@@ -1,0 +1,24 @@
+{
+    "arcategory": [
+        {
+            "id": 1,
+            "name": "Stars and Planets",
+            "image_url": "https://space-of-space.ams3.digitaloceanspaces.com/Photos/Category/planet.png"
+        },
+        {
+            "id": 2,
+            "name": "Engines",
+            "image_url": "https://space-of-space.ams3.digitaloceanspaces.com/Photos/Category/engine.png"
+        },
+        {
+            "id": 3,
+            "name": "Space staff",
+            "image_url": "https://space-of-space.ams3.digitaloceanspaces.com/Photos/Category/staff.png"
+        },
+        {
+            "id": 4,
+            "name": "Rockets",
+            "image_url": "https://space-of-space.ams3.digitaloceanspaces.com/Photos/Category/rocket.png"
+        }
+    ]
+}
